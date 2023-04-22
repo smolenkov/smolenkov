@@ -30,7 +30,7 @@ Dnipro, Ukraine | +380974371048 | s-alex-v@ukr.net
 | Fixing failed tests | BA team |![TestNG](https://img.shields.io/badge/-TestNG-007ACC?style=flat&logo=testng&logoColor=white) ![Selenide](https://img.shields.io/badge/-Selenide-orange?style=flat-square&logo=selenium&logoColor=white)  |
 | Maintaining UI autotests | Dev team | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white) |
 | Creating bug reports | MQA team | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
-| Working with kanban | AQA team | ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&logoColor=white)  |
+| Working with kanban | AQA team | ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&logoColor=white) ![Allure](https://img.shields.io/badge/-Allure-orange?style=flat-square&logo=allure&logoColor=white)  |
 
 
 ### Laserex

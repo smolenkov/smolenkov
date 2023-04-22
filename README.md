@@ -1,6 +1,6 @@
 # Alexander Smolenkov
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/smolenkov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexander-smolenkov-6a1344129/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/smolenkov/)
 [![Email](https://img.shields.io/badge/Email-s--alex--v%40ukr.net-green?style=flat-square&logo=gmail)](mailto:s-alex-v@ukr.net)
 
 Dnipro, Ukraine | +380974371048 | s-alex-v@ukr.net

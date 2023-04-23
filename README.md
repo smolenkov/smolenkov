@@ -20,7 +20,7 @@ Dnipro, Ukraine | +380974371048 | s-alex-v@ukr.net
 
 ## Experience (Current project)
 
-### EPAM
+### Company: EPAM
 
 #### Project: Inner Project
 #### Role: Trainee AQA
